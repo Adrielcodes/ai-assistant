@@ -2,14 +2,6 @@
 
 > Double-clap. Jarvis wakes up, greets you with the weather and your tasks, answers your questions with dry British wit, controls your browser, and sees your screen.
 
-Built entirely with [Claude Code](https://claude.ai/code) — no code written manually.
-
----
-
-## Youtube Video
-
-[Demo & Explaination](https://youtu.be/XsceN-hEit4)
-
 ---
 
 ## Features
