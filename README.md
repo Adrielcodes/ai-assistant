@@ -266,7 +266,7 @@ Claude Code will adapt the PowerShell scripts to shell scripts, adjust paths, an
 
 ## Credits
 
-Built by [Julian](https://skool.com/ki-automatisierung) with [Claude Code](https://claude.ai/code).
+Built by Adriel Ramirez
 
 Inspired by Iron Man's J.A.R.V.I.S. — *"At your service, Sir."*
 
